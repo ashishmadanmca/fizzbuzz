@@ -21,9 +21,9 @@ In the server directory, run:
 Open [http://localhost:3000/api/fizzbuzz/100](http://localhost:3000/api/fizzbuzz/:count) to view it in the browser.
 This will run the node service on express (server side code)
 
-##Problem Statement 
+## Problem Statement 
 
-###Design an API which Returns data as Fizz Buzz Pattern:
+### Design an API which Returns data as Fizz Buzz Pattern:
 
 A program that prints each number from 1 to 100 on a new line.
 
@@ -37,7 +37,7 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
 More on Fizz Buzz: https://en.wikipedia.org/wiki/Fizz_buzz
 
 
-##Requirements:
+## Requirements:
 
 Create an API which accepts a parameter “count” from user
 
